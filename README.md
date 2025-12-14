@@ -583,15 +583,15 @@ Currently, the frontend uses manual testing. Future enhancement would include:
 
 ## 👨‍💻 Developer
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Vishal Kumar**
+- GitHub: [@yourusername](https://github.com/VishalKumar080/Sweet-managemen-System)
+- Email: vishalkumargpj491@gmail.com
 
 ---
 
 ## 📄 License
 
-This project is created for educational purposes as part of a college assignment.
+This project is created for AI learning.
 
 ---
 
@@ -617,3 +617,4 @@ If you encounter any issues or have questions:
 ---
 
 **Made with ❤️ and AI assistance**
+
