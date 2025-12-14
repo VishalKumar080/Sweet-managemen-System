@@ -4,16 +4,16 @@ A full-stack web application for managing a sweet shop's inventory, similar to f
 
 ## 📋 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
-- [API Documentation](#api-documentation)
-- [Screenshots](#screenshots)
-- [My AI Usage](#my-ai-usage)
-- [Testing](#testing)
-- [Future Enhancements](#future-enhancements)
+- [🎯 Project Overview](#-project-overview)
+- [✨ Features](#-features)
+- [🛠️ Technology Stack](#️-technology-stack)
+- [📁 Project Structure](#-project-structure)
+- [🚀 Setup Instructions](#-setup-instructions)
+- [📚 API Documentation](#-api-documentation)
+- [📸 Screenshots](#-screenshots)
+- [🤖 My AI Usage](#-my-ai-usage)
+- [🧪 Testing](#-testing)
+- [🔮 Future Enhancements](#-future-enhancements)
 
 ---
 
@@ -584,7 +584,7 @@ Currently, the frontend uses manual testing. Future enhancement would include:
 ## 👨‍💻 Developer
 
 **Your Name**
-- GitHub: [@yourusername]( https://github.com/VishalKumar080/Sweet-managemen-System)
+- GitHub: [@yourusername](https://github.com/yourusername)
 - Email: your.email@example.com
 
 ---
@@ -617,4 +617,3 @@ If you encounter any issues or have questions:
 ---
 
 **Made with ❤️ and AI assistance**
-
